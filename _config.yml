@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+baseurl: "/"
+url: "https://uhahaha2000.github.io"
+title: Title # site's title
+description: "A website" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
