@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/"
 url: "https://uhahaha2000.github.io"
-title: Title # site's title
+title:  # site's title
 description: "A website" # used by search engines
 
 
@@ -21,7 +21,7 @@ theme_settings:
    Powered by Jekyll with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: false  # Make sure you created a feed.xml with feed.xml layout
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
@@ -102,7 +102,7 @@ paginate_path: "blog/page:num"
 # PORTFOLIO
 collections:
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:name
 
 
