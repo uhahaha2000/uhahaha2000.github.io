@@ -6,7 +6,7 @@ thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Travel]
 ---
 
-# Ready for Travel
+# Prepare to Travel
 
 * 호텔
 - 오시아게 호텔
