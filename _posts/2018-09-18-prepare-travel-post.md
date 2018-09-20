@@ -22,9 +22,9 @@ tags: [Travel]
 
 ## 맛집
 | 이름 | 무엇 | 가까운역 | 참고주소 |
-| :-------- | :------------ | :---------- | :-------- | 
+| :----- | :---------- | :---------- | :-------- | 
 | 에쉬레 메종 드 베르 | 빵 | 도쿄역 | https://blog.naver.com/mpo4737/221299086437 |
 | GOOD TOWN BAKEHOUSE | 카페 | 요요기우에하라 | https://tabelog.com/kr/tokyo/A1318/A131811/13198842/ |
 | 카렐차페크 | 홍차 | 키치죠지 | https://blog.naver.com/amdj2020/221278853720 |
-| 이로하 | 규카츠 | 이케부쿠로 | https://blog.naver.com/PostView.nhn?blogId=mycrystal007&logNo=221263091314 |
-| 나스오야지 | 카레 | 시모키타자와 | https://blog.naver.com/joohye48/221017478006 |
+| 이로하 |  규카츠  | 이케부쿠로 | https://blog.naver.com/PostView.nhn?blogId=mycrystal007&logNo=221263091314 |
+| 나스오야지 |  카레  | 시모키타자와 | https://blog.naver.com/joohye48/221017478006 |
