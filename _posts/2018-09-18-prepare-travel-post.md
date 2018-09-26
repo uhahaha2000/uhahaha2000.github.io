@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Travel
-feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
+feature-img: "assets/img/pexels/illu_tokyo.jpg"
+thumbnail: "assets/img/thumbnails/bg_tokyo.jpg"
 tags: [Travel]
 ---
 
