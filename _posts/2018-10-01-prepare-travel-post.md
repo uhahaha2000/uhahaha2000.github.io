@@ -8,7 +8,7 @@ tags: [Travel]
 
 ======
 [Hotel](#hotel) | [Transfer](#transfer) | [Go](#gogo) | [Eat](#eateat)
-=====
+======
 
 
 # Prepare to Travel
@@ -44,8 +44,10 @@ tags: [Travel]
 
 
 ## 가볼까? {#gogo}
-```[문구] 로프트(긴자)```
-```[문구] 세이카도(신주쿠)```
+```로프트(긴자)``` 문구
+
+```세이카도(신주쿠)``` 문구
+
 ```무인양품(유라쿠초)```
 
 
