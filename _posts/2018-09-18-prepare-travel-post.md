@@ -8,18 +8,16 @@ tags: [Travel]
 
 # Prepare to Travel
 
-## 호텔
+## 호텔 후보
 - 오시아게 호텔
 - 그레이서리 타마치
 - [폰테인 도쿄 타마치](https://blog.naver.com/nicorolo/221041379936)
 - 닛폰 세이넨칸 호텔
 
-
 - 프리미어 호텔-캐빈-신주쿠(Premier Hotel-Cabin-Shinjuku)
 - E 호텔 히가시 신주쿠
 - 선라이트 신주쿠
 - 신주쿠 뉴 시티 호텔 도
-
 
 - 호텔 카덴차 히카리카오카(네리마구)
 
@@ -37,3 +35,8 @@ tags: [Travel]
 | 카렐차페크 | 홍차 | 키치죠지 | [https://blog.naver.com/amdj2020/221278853720](https://blog.naver.com/amdj2020/221278853720) |
 | 이로하 |  규카츠  | 이케부쿠로 | [https://blog.naver.com/mycrystal007/221263091314](https://blog.naver.com/mycrystal007/221263091314) |
 | 나스오야지 |  카레  | 시모키타자와 | [https://blog.naver.com/joohye48/221017478006](https://blog.naver.com/joohye48/221017478006) |
+| 야요이켄 | 일본가정식 | 신주쿠(신주쿠메이지도리점, 신주쿠교엔점 )[점포안내](https://www.yayoiken.com/store/search.php?ken_id=13) | <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.4252939755256!2d139.70804016561226!3d35.69115053703448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdd3550af35%3A0x1db52b79a7763f29!2sYayoiken!5e0!3m2!1sko!2skr!4v1538359381367" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3229.0310933938717!2d139.70460172409946!3d35.69567511140294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdecbe79db3%3A0x5082ef836700f98e!2sYayoiken+Shinjuku+Meiji-d%C5%8Dri!5e0!3m2!1sko!2skr!4v1538359525812" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>|
+
+## 볼거리/먹거리 동네
+- 몬자야키 거기 (츠키시마역 7번 출구)
