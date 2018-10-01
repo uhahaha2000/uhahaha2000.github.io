@@ -8,7 +8,7 @@ tags: [Travel]
 
 # Prepare to Travel
 
-## [호텔 후보](#hotel)
+## 호텔 후보 {#hotel}
 - 오시아게 호텔
 - 그레이서리 타마치
 - [폰테인 도쿄 타마치](https://blog.naver.com/nicorolo/221041379936)
@@ -21,7 +21,7 @@ tags: [Travel]
 
 - 호텔 카덴차 히카리카오카(네리마구)
 
-## [교통](#transfer)
+## 교통 {#transfer}
 - 도쿄 교통 패스권
     - [도쿄 서브웨이 티켓 패스권 종류](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16108239&memberNo=11593826&vType=VERTICAL)
     - [하네다공항 교통가이드](http://www.haneda-tokyo-access.com/kr/info/discountticket_welcometokyo.html)
@@ -37,13 +37,13 @@ tags: [Travel]
 | 나스오야지 |  카레  | 시모키타자와 | [https://blog.naver.com/joohye48/221017478006](https://blog.naver.com/joohye48/221017478006) |
 
 
-## [가볼까?](#gogo)
+## 가볼까? {#gogo}
 - ```[문구] 로프트(긴자)```
 - ```[문구] 세이카도(신주쿠)```
 - ```무인양품(유라쿠초)```
 
 
-## [먹어볼까?](#eateat)
+## 먹어볼까? {#eateat}
 ```やよい軒(야요이켄)``` 일본가정식  
 - [[지점안내]](https://www.yayoiken.com/store/search.php?ken_id=13)
 - 신주쿠교엔점
