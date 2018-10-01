@@ -28,6 +28,9 @@ tags: [Travel]
 - 호텔 카덴차 히카리카오카(네리마구)
 
 ## 교통 {#transfer}
+- 지하철노선도, 스이카
+    - [지하철노선도,스이카카드](https://ggeunkk.blog.me/221326008822)
+    - [+Tip](https://blog.naver.com/ddubabi/221365368432)
 - 도쿄 교통 패스권
     - [도쿄 서브웨이 티켓 패스권 종류](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16108239&memberNo=11593826&vType=VERTICAL)
     - [하네다공항 교통가이드](http://www.haneda-tokyo-access.com/kr/info/discountticket_welcometokyo.html)
@@ -47,11 +50,19 @@ tags: [Travel]
 
 
 ## 가볼까? {#gogo}
-#### ```로프트(긴자)``` 문구
-- 지워지는 펜~_~
-#### ```세이카도(신주쿠)``` 문구
+-  ```buy``` 로프트(긴자) : 문구
+    - 지워지는 펜~_~
+- ```buy``` 세이카도(신주쿠) : 문구
+- ```buy``` 무인양품(유라쿠초)
+- ```buy``` LUSH
 
-#### ```무인양품(유라쿠초)```
+
+
+- ```look``` 일루미네이션 이벤트 (마루노우치, 에비스, 진가, 오모테산도, 도쿄돔,,?) 
+    - [도쿄돔](https://www.tokyo-dome.co.jp/ko/tourists/illumination/)
+    - [2017 참고1](https://www.gotokyo.org/kr/tourists/attractions/fourseasons/illumination.html) 
+    - [2017 참고2](https://livejapan.com/ko/article-a0000611/)
+- ```look``` 요코하마 야경
 
 
 
@@ -64,3 +75,5 @@ tags: [Travel]
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3240.2414670332205!2d139.7046017!3d35.6956751!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdecbe79db3%3A0x5082ef836700f98e!2sYayoiken+Shinjuku+Meiji-d%C5%8Dri!5e0!3m2!1sko!2skr!4v1538363281831" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 ---------------------
 #### ```몬자야키 거리``` (츠키시마역 7번 출구)
+#### ```銀だこ``` 다코야키
+#### 스시
