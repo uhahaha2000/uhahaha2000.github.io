@@ -6,6 +6,11 @@ thumbnail: "assets/img/thumbnails/bg_tokyo.jpg"
 tags: [Travel]
 ---
 
+======
+[Hotel](#hotel) | [Transfer](#transfer) | [Go](#gogo) | [Eat](#eateat)
+=====
+
+
 # Prepare to Travel
 
 ## 호텔 후보 {#hotel}
@@ -28,6 +33,7 @@ tags: [Travel]
 
 
 ## 추천 맛집
+
 | 이름 | 무엇 | 가까운역 | 참고주소 |
 | ----------- | ----------- | ----------- | ----------- |
 | 에쉬레 메종 드 베르 | 빵 | 도쿄역 | [https://blog.naver.com/mpo4737/221299086437](https://blog.naver.com/mpo4737/221299086437) |
@@ -38,9 +44,9 @@ tags: [Travel]
 
 
 ## 가볼까? {#gogo}
-- ```[문구] 로프트(긴자)```
-- ```[문구] 세이카도(신주쿠)```
-- ```무인양품(유라쿠초)```
+```[문구] 로프트(긴자)```
+```[문구] 세이카도(신주쿠)```
+```무인양품(유라쿠초)```
 
 
 ## 먹어볼까? {#eateat}
