@@ -27,7 +27,6 @@ tags: [Travel]
 
 - 호텔 카덴차 히카리카오카(네리마구)
 
-
 ## 교통 {#transfer}
 - 도쿄 교통 패스권
     - [도쿄 서브웨이 티켓 패스권 종류](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16108239&memberNo=11593826&vType=VERTICAL)
@@ -48,19 +47,20 @@ tags: [Travel]
 
 
 ## 가볼까? {#gogo}
-####```로프트(긴자)``` 문구
+#### ```로프트(긴자)``` 문구
 - 지워지는 펜~_~
-####```세이카도(신주쿠)``` 문구
+#### ```세이카도(신주쿠)``` 문구
 
-####```무인양품(유라쿠초)```
+#### ```무인양품(유라쿠초)```
+
 
 
 ## 먹어볼까? {#eateat}
-```やよい軒(야요이켄)``` 일본가정식  
+#### ```やよい軒(야요이켄)``` 일본가정식  
 - [[지점안내]](https://www.yayoiken.com/store/search.php?ken_id=13)
 - 신주쿠교엔점
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.4252939755256!2d139.70804016561226!3d35.69115053703448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdd3550af35%3A0x1db52b79a7763f29!2sYayoiken!5e0!3m2!1sko!2skr!4v1538359381367" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 - 신주쿠메이지도리점
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3240.2414670332205!2d139.7046017!3d35.6956751!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdecbe79db3%3A0x5082ef836700f98e!2sYayoiken+Shinjuku+Meiji-d%C5%8Dri!5e0!3m2!1sko!2skr!4v1538363281831" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 ---------------------
-```몬자야키 거리``` (츠키시마역 7번 출구)
+#### ```몬자야키 거리``` (츠키시마역 7번 출구)
