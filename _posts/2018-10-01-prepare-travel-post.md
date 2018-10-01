@@ -4,6 +4,7 @@ title: Travel
 feature-img: "assets/img/pexels/illu_tokyo.jpg"
 thumbnail: "assets/img/thumbnails/bg_tokyo.jpg"
 tags: [Travel]
+
 ---
 
 ======
@@ -26,10 +27,12 @@ tags: [Travel]
 
 - 호텔 카덴차 히카리카오카(네리마구)
 
+
 ## 교통 {#transfer}
 - 도쿄 교통 패스권
     - [도쿄 서브웨이 티켓 패스권 종류](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16108239&memberNo=11593826&vType=VERTICAL)
     - [하네다공항 교통가이드](http://www.haneda-tokyo-access.com/kr/info/discountticket_welcometokyo.html)
+
 
 
 ## 추천 맛집
@@ -43,12 +46,13 @@ tags: [Travel]
 | 나스오야지 |  카레  | 시모키타자와 | [https://blog.naver.com/joohye48/221017478006](https://blog.naver.com/joohye48/221017478006) |
 
 
+
 ## 가볼까? {#gogo}
-```로프트(긴자)``` 문구
+####```로프트(긴자)``` 문구
+- 지워지는 펜~_~
+####```세이카도(신주쿠)``` 문구
 
-```세이카도(신주쿠)``` 문구
-
-```무인양품(유라쿠초)```
+####```무인양품(유라쿠초)```
 
 
 ## 먹어볼까? {#eateat}
