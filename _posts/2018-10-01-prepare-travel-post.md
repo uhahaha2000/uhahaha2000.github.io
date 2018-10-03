@@ -15,17 +15,21 @@ tags: [Travel]
 # Prepare to Travel
 
 ## 호텔 후보 {#hotel}
-- 오시아게 호텔
-- 그레이서리 타마치
-- [폰테인 도쿄 타마치](https://blog.naver.com/nicorolo/221041379936)
+- [ ] 오시아게 호텔
+- [ ] 그레이서리 타마치
+- [ ] [폰테인 도쿄 타마치](https://blog.naver.com/nicorolo/221041379936)
+- [x] 소테츠 프레사 인 도쿄-타마치 (Sotetsu Fresa Inn Tokyo-Tamachi
+
 - 닛폰 세이넨칸 호텔
 
 - 프리미어 호텔-캐빈-신주쿠(Premier Hotel-Cabin-Shinjuku)
-- E 호텔 히가시 신주쿠
 - 선라이트 신주쿠
 - 신주쿠 뉴 시티 호텔 도
 
 - 호텔 카덴차 히카리카오카(네리마구)
+
+
+
 
 ## 교통 {#transfer}
 - 지하철노선도, 스이카
