@@ -50,7 +50,7 @@ tags: [Travel]
 | 카렐차페크 | 홍차 | 키치죠지 | [https://blog.naver.com/amdj2020/221278853720](https://blog.naver.com/amdj2020/221278853720) |
 | 이로하 |  규카츠  | 이케부쿠로 | [https://blog.naver.com/mycrystal007/221263091314](https://blog.naver.com/mycrystal007/221263091314) |
 | 나스오야지 |  카레  | 시모키타자와 | [https://blog.naver.com/joohye48/221017478006](https://blog.naver.com/joohye48/221017478006) |
-
+| 엘리펀트 노스 카페 | 아이스크림 | 요코하마 | [https://blog.naver.com/sangjun2222/221311304399](https://blog.naver.com/sangjun2222/221311304399) |
 
 
 ## 가볼까? {#gogo}
@@ -68,8 +68,14 @@ tags: [Travel]
     - [도쿄돔](https://www.tokyo-dome.co.jp/ko/tourists/illumination/)
     - [2017 참고1](https://www.gotokyo.org/kr/tourists/attractions/fourseasons/illumination.html) 
     - [2017 참고2](https://livejapan.com/ko/article-a0000611/)
-- ```look``` 요코하마 야경
+- ```look``` 요코하마
+    - 오산바시 국제 여객터미널
+    - 반나절코스도 있다니 알아보기
+        - 시부야에서 도요코센 타거 가면 요코하마역에서 내려서 미나토미라이센타고 가면 니혼 오도리인가 도오린가 몬가에서 내림 오산바시 갈수있고 [외국인 묘지](https://blog.naver.com/emotion0822/221350995824) 
+        - 미나토 미라이 티켓은 요코하마역가서도 살 수 있고 그냥 제알타거 가서 요코하마역에서 어차피 갈아타야하니 그떄 사더데여
+
 - ```look``` [도쿄사쿠라트램-노면전차!!](https://camry109.blog.me/221346163164)
+
 
 
 ## 먹어볼까? {#eateat}
