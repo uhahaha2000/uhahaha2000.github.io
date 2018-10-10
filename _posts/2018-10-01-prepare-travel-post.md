@@ -59,6 +59,7 @@ tags: [Travel]
 - ```buy``` 세이카도(신주쿠) : 문구
 - ```buy``` 무인양품(유라쿠초)
 - ```buy``` LUSH
+- ```buy``` 
 
 ------
 
@@ -68,7 +69,7 @@ tags: [Travel]
     - [2017 참고1](https://www.gotokyo.org/kr/tourists/attractions/fourseasons/illumination.html) 
     - [2017 참고2](https://livejapan.com/ko/article-a0000611/)
 - ```look``` 요코하마 야경
-
+- ```look``` [도쿄사쿠라트램-노면전차!!](https://camry109.blog.me/221346163164)
 
 
 ## 먹어볼까? {#eateat}
@@ -82,3 +83,6 @@ tags: [Travel]
 - ```몬자야키 거리``` (츠키시마역 7번 출구)
 - ```銀だこ``` 다코야키
 - 스시
+    - ![osushi]()
+- 소바
+- 스키야키
