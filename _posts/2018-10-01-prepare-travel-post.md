@@ -51,6 +51,7 @@ tags: [Travel]
 | 이로하 |  규카츠  | 이케부쿠로 | [https://blog.naver.com/mycrystal007/221263091314](https://blog.naver.com/mycrystal007/221263091314) |
 | 나스오야지 |  카레  | 시모키타자와 | [https://blog.naver.com/joohye48/221017478006](https://blog.naver.com/joohye48/221017478006) |
 | 엘리펀트 노스 카페 | 아이스크림 | 요코하마 | [https://blog.naver.com/sangjun2222/221311304399](https://blog.naver.com/sangjun2222/221311304399) |
+| 하브스 | 케이크 | 신주쿠 | [https://blog.naver.com/ung3256/221375869246](https://blog.naver.com/ung3256/221375869246) |
 
 
 ## 가볼까? {#gogo}
