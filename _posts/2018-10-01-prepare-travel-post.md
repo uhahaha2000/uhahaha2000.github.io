@@ -35,6 +35,7 @@ tags: [Travel]
 - 지하철노선도, 스이카
     - [지하철노선도,스이카카드](https://ggeunkk.blog.me/221326008822)
     - [+Tip](https://blog.naver.com/ddubabi/221365368432)
+    
 - 도쿄 교통 패스권
     - [도쿄 서브웨이 티켓 패스권 종류](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16108239&memberNo=11593826&vType=VERTICAL)
     - [하네다공항 교통가이드](http://www.haneda-tokyo-access.com/kr/info/discountticket_welcometokyo.html)
@@ -71,6 +72,7 @@ tags: [Travel]
     - [도쿄 타워 윈터 판타지](https://www.gotokyo.org/kr/kanko/minato/event/p_tokyo_lightfantasia.html){: target="_blank" } - 2018.11.2 - 2019.2.28
     - [롯폰기 힐즈 크리스마스 2018](https://www.gotokyo.org/kr/kanko/minato/event/roppongihills_christmas.html){: target="_blank" } - 2018.11.5 - 2018.12.25
 
+
 - ```look``` 요코하마
     - 오산바시 국제 여객터미널
     - 반나절코스도 있다니 알아보기
@@ -78,17 +80,20 @@ tags: [Travel]
         - 미나토 미라이 티켓은 요코하마역가서도 살 수 있고 그냥 제알타거 가서 요코하마역에서 어차피 갈아타야하니 그떄 사더데여
 
 - ```look``` [도쿄사쿠라트램-노면전차!!](https://camry109.blog.me/221346163164){: target="_blank" }
+    - [트램 주변 맛집](https://livejapan.com/ko/article-a0002325/){: target="_blank" }
+    - [트램 주변 구경](https://livejapan.com/ko/article-a0001665/){: target="_blank" }
 
 
 
 ## 먹어볼까? {#eateat}
 - ```やよい軒(야요이켄)``` 일본가정식  
-    - [[지점안내]](https://www.yayoiken.com/store/search.php?ken_id=13)
+    - [[지점안내]](https://www.yayoiken.com/store/search.php?ken_id=13){: target="_blank" }
     - 신주쿠메이지도리점
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3240.2414670332205!2d139.7046017!3d35.6956751!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdecbe79db3%3A0x5082ef836700f98e!2sYayoiken+Shinjuku+Meiji-d%C5%8Dri!5e0!3m2!1sko!2skr!4v1538363281831" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        /* <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3240.2414670332205!2d139.7046017!3d35.6956751!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdecbe79db3%3A0x5082ef836700f98e!2sYayoiken+Shinjuku+Meiji-d%C5%8Dri!5e0!3m2!1sko!2skr!4v1538363281831" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> */
 ---------------------
 - ```몬자야키 거리``` (츠키시마역 7번 출구)
-- ```銀だこ``` 다코야키
+- 다코야키(銀だこ)
 - 스시
 - 소바
 - 스키야키
+- ばくだん焼
