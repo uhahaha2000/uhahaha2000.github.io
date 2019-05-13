@@ -5,11 +5,6 @@ tags: [device-pixel-ratio]
 excerpt_separator: <!--more-->
 ---
 
-window.innerWidth (스크롤 포함)
-document.body.clientWidth
-document.documentElement.clientWidth
-
-
 # device-pixel-ratio 계산 | mobile
 device-pixel-ratio : 단말기의 화소와 실제 화면의 pixel간의 비율
 
