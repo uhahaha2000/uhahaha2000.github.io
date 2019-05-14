@@ -23,9 +23,10 @@ device-pixel-ratio : 단말기의 화소와 실제 화면의 pixel간의 비율
     * devicePixelRatio = 326/150 = 2.17 => 반올림 => 2
     
 ## device-width, device-height
-예를 들어 기기의 해상도가 1334 x 750
-    - device-width : 750 / 2 = 375
-    - device-height : 1334 / 2 = 667
+예를 들어, 기기의 해상도가 1334 x 750.
+   
+    * device-width : 750 / 2 = 375
+    * device-height : 1334 / 2 = 667
 
     
     
@@ -33,6 +34,6 @@ device-pixel-ratio : 단말기의 화소와 실제 화면의 pixel간의 비율
 
 
 
-출처 : (https://www.html5rocks.com/en/mobile/high-dpi/#disqus_thread){: target="_blank"}
-(https://feel5ny.github.io/2018/05/13/mediaQuery_01/){: target="_blank" }
-(https://bjango.com/articles/min-device-pixel-ratio/){: target="_blank" }
+출처 : [https://www.html5rocks.com/en/mobile/high-dpi/#disqus_thread]{: target="_blank"}
+[https://feel5ny.github.io/2018/05/13/mediaQuery_01/]{: target="_blank" }
+[https://bjango.com/articles/min-device-pixel-ratio/]{: target="_blank" }
