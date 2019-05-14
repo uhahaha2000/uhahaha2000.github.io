@@ -29,6 +29,7 @@ device-pixel-ratio : 단말기의 화소와 실제 화면의 pixel간의 비율
 
 
 출처 :   
-[https://www.html5rocks.com/en/mobile/high-dpi/#disqus_thread](https://www.html5rocks.com/en/mobile/high-dpi/#disqus_thread){: target="_blank"}
-[https://feel5ny.github.io/2018/05/13/mediaQuery_01/](https://feel5ny.github.io/2018/05/13/mediaQuery_01/){: target="_blank" }
+[https://www.html5rocks.com/en/mobile/high-dpi/#disqus_thread](https://www.html5rocks.com/en/mobile/high-dpi/#disqus_thread){: target="_blank"}  
+[https://feel5ny.github.io/2018/05/13/mediaQuery_01/](https://feel5ny.github.io/2018/05/13/mediaQuery_01/){: target="_blank" }  
 [https://bjango.com/articles/min-device-pixel-ratio/](https://bjango.com/articles/min-device-pixel-ratio/){: target="_blank" }
+ 
