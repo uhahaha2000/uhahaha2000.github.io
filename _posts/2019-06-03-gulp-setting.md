@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Travel
-feature-img: "assets/img/pexels/illu_tokyo.jpg"
-thumbnail: "assets/img/thumbnails/bg_tokyo.jpg"
-tags: [work, bug, discover]
+title: Gulp
+feature-img: "assets/img/pexels/computer2.jpeg"
+thumbnail: "assets/img/thumbnails/gulp.png"
+tags: [gulp, css, scss, verderprefix]
 
 ---
 
 ## CSS / [iOS safari] : background:linear-gradient() 초기값은 #000, [다른 브라우저] : 초기값은 #fff
 
 ## CSS, Scss 
-    - [gulp] : 작성한 css 파일 내에 주석 삭제
+   [gulp] : 작성한 css 파일 내에 주석 삭제 cleanCSS
     
 ```
 gulp.task('comment-delect', () => {
-	return gulp.src(file_paths.folder + 'converted-part2.css')
+	return gulp.src(file_paths.folder + '*.css')
 		.pipe(cleanCSS({
 			compatibility: 'ie8' ,
 			format: {
@@ -63,7 +63,7 @@ gulp.task('comment-delect', () => {
 });
 ```
 
-- [gulp] : 작성한 css 파일 autoprefix
+[gulp] : 작성한 css 파일 autoprefix
 
 ```
 gulp.task('autoprefix-css', () => {
