@@ -2,7 +2,7 @@
 layout: post
 title: Gulp
 feature-img: "assets/img/pexels/computer2.jpeg"
-thumbnail: "assets/img/thumbnails/gulp.png"
+thumbnail: "assets/img/thumbnails/gulp.jpg"
 tags: [gulp, css, scss, verderprefix]
 
 ---
