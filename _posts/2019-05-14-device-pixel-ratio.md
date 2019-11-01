@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 # device-pixel-ratio 계산 | mobile
 device-pixel-ratio : 단말기의 화소와 실제 화면의 pixel간의 비율
 
-> 1334 x 750 픽셀 해상도 (326ppi)
+> [!NOTE] 1334 x 750 픽셀 해상도 (326ppi)
 
 ## 장치와 픽셀 비율 계산
 1. 장치가 유지외는 길제 거리와 참고 픽셀의 거리를 비교
