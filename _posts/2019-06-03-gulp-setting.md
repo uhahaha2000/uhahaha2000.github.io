@@ -12,7 +12,7 @@ tags: [gulp, css, scss, verderprefix]
 ## CSS, Scss 
    [gulp] : 작성한 css 파일 내에 주석 삭제 cleanCSS
     
-```
+```javascript
 gulp.task('comment-delect', () => {
 	return gulp.src(file_paths.folder + '*.css')
 		.pipe(cleanCSS({
