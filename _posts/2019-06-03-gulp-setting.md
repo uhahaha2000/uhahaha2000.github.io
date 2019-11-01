@@ -65,7 +65,7 @@ gulp.task('comment-delect', () => {
 
 [gulp] : 작성한 css 파일 autoprefix
 
-```html
+```javascript
 gulp.task('autoprefix-css', () => {
 	return gulp.src(file_paths.css)
 		.pipe(sourcemaps.init())
