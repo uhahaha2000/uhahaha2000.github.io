@@ -1,5 +1,3 @@
-// toc.js
-// Copied here for the example, can be placed in assets/js for real use in your template.
 // https://github.com/ghiculescu/jekyll-table-of-contents
 (function($){
 	$.fn.toc = function(options) {
