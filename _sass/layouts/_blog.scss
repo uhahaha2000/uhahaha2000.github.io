@@ -45,9 +45,9 @@
 /* --- Post listing --- */
 .posts {
   display:grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: none;
   @media (min-width: $m-break) {
-    grid-template-columns: none;
+    grid-template-columns: repeat(2, 1fr);
   }
   
   .post-teaser {
