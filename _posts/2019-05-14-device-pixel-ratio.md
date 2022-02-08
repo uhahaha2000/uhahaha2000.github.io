@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Device Pixel Ratio
-tags: [device-pixel-ratio, ]
+tags: [device-pixel-ratio]
 excerpt_separator: <!--more-->
 ---
 
@@ -13,7 +13,7 @@ device-pixel-ratio : 단말기의 화소와 실제 화면의 pixel간의 비율
 ## 장치와 픽셀 비율 계산
 1. 장치가 유지외는 길제 거리와 참고 픽셀의 거리를 비교
 
-![calculate device Pixel Ratio]({{ site.baseurl }}/assets/img/calculate-devicePixelRatio.png)
+![calculate device Pixel Ratio]({{ site.baseurl }}/assets/img/thumbnails/feature-img/calculate-devicePixelRatio.png)
 
 2. 28인치에서 이상적인 밀도는 '인치 당 96픽셀' 이다. (표준 밀도 96dpi) 그러나 스마트폰은 노트북을 들고 다니는 것보다 디바이스를 얼굴에 가깝게 들고 있는다. 그 거리를 18인치로 추정
    > * idealPixelDensity = (28/18) * 96 = 150 픽셀 / 인치 (대략)
