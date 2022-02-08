@@ -11,7 +11,7 @@ function masonryLayout() {
 
 	document.querySelectorAll(".post-teaser").forEach((elt) => {
 		elt.style.gridRowEnd = `span ${Math.ceil(
-			elt.querySelector(".post-teaser").scrollHeight / autoRows + columnGap / autoRows
+			elt.querySelector(".post-teaser").getBoundingClientRect().height / autoRows + columnGap / autoRows
 		)}`;
 	});
 
