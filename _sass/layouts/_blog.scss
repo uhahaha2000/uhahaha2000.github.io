@@ -44,6 +44,12 @@
 
 /* --- Post listing --- */
 .posts {
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  @media (min-width: $m-break) {
+    grid-template-columns: none;
+  }
+  
   .post-teaser {
     @extend %padding-post;
     width: 100%;
