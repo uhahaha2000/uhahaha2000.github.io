@@ -3,9 +3,13 @@
     {% comment %}
     <div class="footer-icons">
         <ul>
-    
+
         {% include social/icons.liquid %}
         </ul>
     </div>
     {% endcomment %}
 </footer>
+
+{% if site.is_home %}
+    <script src="/assets/js/customs/grid-masonry.js"></script>
+{% endif %}
