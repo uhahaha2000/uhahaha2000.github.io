@@ -46,7 +46,7 @@
 .posts {
   display:grid;
   grid-template-columns: none;
-  @media (min-width: $m-break) {
+  @media (min-width: $break) {
     grid-template-columns: repeat(2, 1fr);
   }
   
