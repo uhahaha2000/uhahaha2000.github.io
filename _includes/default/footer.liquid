@@ -1,12 +1,11 @@
 <footer class="site-footer">
-    <p class="text">
-        {{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</p>
-            <!-- <div class="footer-icons">
-                <ul>
-                
-                {% include social/icons.liquid %}
-                </ul>
-            </div> -->
+    <p class="text">{{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</p>
+    {% comment %}
+    <div class="footer-icons">
+        <ul>
+    
+        {% include social/icons.liquid %}
+        </ul>
+    </div>
+    {% endcomment %}
 </footer>
-
-
