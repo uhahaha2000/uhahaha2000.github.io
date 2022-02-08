@@ -44,10 +44,13 @@
 
 /* --- Post listing --- */
 .posts {
-  display:grid;
   grid-template-columns: none;
   @media (min-width: $break) {
-    grid-template-columns: repeat(2, 1fr);
+    --gap: 0;
+    display: grid;
+    column-gap: var(--gap);
+    grid-auto-rows: 50px;
+    grid-template-columns: repeat(3, 1fr);
   }
   
   .post-teaser {
