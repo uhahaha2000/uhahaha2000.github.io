@@ -1,3 +1,5 @@
+'use strict';
+
 function masonryLayout() {
 	const masonryContainerStyle = getComputedStyle(
 		document.querySelector("div.posts")
