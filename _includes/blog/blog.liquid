@@ -1,4 +1,4 @@
-<div class="posts">
+<div class="posts main-post-list">
     {% unless paginator.posts %}
         <article>
             <section class="post-content"><p>There are no blog posts</p></section>
@@ -39,3 +39,5 @@
 </div>
 
 {% include blog/blog_nav.liquid %}
+
+<script defer src="/assets/js/customs/grid-masonry.js"></script>

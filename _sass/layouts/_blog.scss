@@ -44,22 +44,13 @@
 
 /* --- Post listing --- */
 .posts {
-  grid-template-columns: none;
-  @media (min-width: $break) {
-    --gap: 0;
-    display: grid;
-    column-gap: var(--gap);
-    grid-auto-rows: 10px;
-    grid-template-columns: repeat(2, 1fr);
-  }
-  
-  .post-teaser-inner {
+  .post-teaser {
     @extend %padding-post;
     width: 100%;
     margin-bottom: 0;
     display: inline-block;
     background-size: cover;
-    //border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 
     p a {
       @extend .body-link;
@@ -107,4 +98,31 @@
   .excerpt {
     margin-top: 1em;
   }
+}
+
+
+.posts.main-post-list {
+  grid-template-columns: none;
+  @media (min-width: $break) {
+    --gap: 0;
+    display: grid;
+    column-gap: var(--gap);
+    grid-auto-rows: 10px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .post-teaser {
+    padding: 0;
+    border: none;
+    
+    .post-teaser-inner {
+      @extend %padding-post;
+      width: 100%;
+      margin-bottom: 0;
+      display: inline-block;
+      background-size: cover;
+    }
+  }
+  
+  
 }
