@@ -102,6 +102,8 @@
 
 
 .posts.main-post-list {
+  max-width:1440px;
+  margin:0 auto;
   //grid-template-columns: none;
   @media (min-width: $break) {
    /* --gap: 0;
@@ -137,6 +139,9 @@
     padding: 0;
     border: none;
     
+    @media (max-width: $m-break) {
+      width:auto
+    }
     
     
     .post-teaser-inner {
