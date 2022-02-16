@@ -16,6 +16,6 @@ tags: [writing-mode, css]
   - writing-mode: sideways-rl;
   - writing-mode: sideways-lr;
 
-<iframe width="100%" height="300" src="//jsfiddle.net/uhahaha2000/upvsL4oj/49/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<script async src="//jsfiddle.net/uhahaha2000/upvsL4oj/49/embed/html,css,result/dark/"></script>
 
 
