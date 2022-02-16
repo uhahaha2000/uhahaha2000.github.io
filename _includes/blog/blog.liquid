@@ -10,28 +10,26 @@
                 <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
                     {% if post.thumbnail %}
                         <div class="post-img">
-
                             <img alt="{{ post.title }}" src="{{ post.thumbnail | relative_url }}">
-
                         </div>
                     {% endif %}
-                    <div>
+                    <div class="post-txt">
                         {% comment %}<a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">{% endcomment %}
-                            <header>
-                                <h1>
-                                    {{ post.title }}
-                                </h1>
-                                {% include blog/post_info.liquid author=post.author date=post.date %}
-                            </header>
-                            {% if site.excerpt or site.theme_settings.excerpt %}
-                                <div class="excerpt">
-                                    {% if site.excerpt == "truncate" %}
-                                        {{ post.content | strip_html | truncate: '250' | escape }}
-                                    {% else %}
-                                        {{ post.excerpt | strip_html | escape }}
-                                    {% endif %}
-                                </div>
-                            {% endif %}
+                        <div>
+                            <h2>
+                                {{ post.title }}
+                            </h2>
+                            {% include blog/post_info.liquid author=post.author date=post.date %}
+                        </div>
+                        {% if site.excerpt or site.theme_settings.excerpt %}
+                            <div class="excerpt">
+                                {% if site.excerpt == "truncate" %}
+                                    {{ post.content | strip_html | truncate: '80' | escape }}
+                                {% else %}
+                                    {{ post.excerpt | strip_html | escape }}
+                                {% endif %}
+                            </div>
+                        {% endif %}
                         {% comment %}</a>{% endcomment %}
                     </div>
                 </a>
