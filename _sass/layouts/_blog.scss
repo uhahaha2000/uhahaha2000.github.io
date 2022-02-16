@@ -112,8 +112,26 @@
     display:flex;
     flex-direction: inherit;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
   }
+  a {
+    display:block;
+    color: var(--text);
+    &:hover *,
+    &:focus *,
+    {
+      color: var(--link);
+      filter: brightness(1.1);
+    }
   
+    &:hover img,
+    &:focus img{
+      -moz-transform: scale(1.1);
+      -webkit-transform: scale(1.1);
+      transform: scale(1.1);
+    }
+  }
   .post-teaser {
     width:50%;
     padding: 0;

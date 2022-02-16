@@ -7,32 +7,34 @@
     {% for post in paginator.posts %}
         <div class="post-teaser">
             <div class="post-teaser-inner">
-                {% if post.thumbnail %}
-                    <div class="post-img">
-                        <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
+                <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
+                    {% if post.thumbnail %}
+                        <div class="post-img">
+
                             <img alt="{{ post.title }}" src="{{ post.thumbnail | relative_url }}">
-                        </a>
-                    </div>
-                {% endif %}
-                <div>
-                    <header>
-                        <h1>
-                            <a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">
-                                {{ post.title }}
-                            </a>
-                        </h1>
-                        {% include blog/post_info.liquid author=post.author date=post.date %}
-                    </header>
-                    {% if site.excerpt or site.theme_settings.excerpt %}
-                        <div class="excerpt">
-                            {% if site.excerpt == "truncate" %}
-                                {{ post.content | strip_html | truncate: '250' | escape }}
-                            {% else %}
-                                {{ post.excerpt | strip_html | escape }}
-                            {% endif %}
+
                         </div>
                     {% endif %}
-                </div>
+                    <div>
+                        {% comment %}<a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">{% endcomment %}
+                            <header>
+                                <h1>
+                                    {{ post.title }}
+                                </h1>
+                                {% include blog/post_info.liquid author=post.author date=post.date %}
+                            </header>
+                            {% if site.excerpt or site.theme_settings.excerpt %}
+                                <div class="excerpt">
+                                    {% if site.excerpt == "truncate" %}
+                                        {{ post.content | strip_html | truncate: '250' | escape }}
+                                    {% else %}
+                                        {{ post.excerpt | strip_html | escape }}
+                                    {% endif %}
+                                </div>
+                            {% endif %}
+                        {% comment %}</a>{% endcomment %}
+                    </div>
+                </a>
             </div>
         </div>
     {% endfor %}
