@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Gulp
+title: Memo - Gulp
 feature-img: "assets/img/pexels/computer2.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/gulp.jpg"
 tags: [gulp, css, scss, verderprefix]
 
 ---
-
-## CSS / [iOS safari] : background:linear-gradient() 초기값은 #000, [다른 브라우저] : 초기값은 #fff
 
 ## CSS, Scss 
    [gulp] : 작성한 css 파일 내에 주석 삭제 cleanCSS
@@ -79,3 +77,4 @@ gulp.task('autoprefix-css', () => {
 		.pipe(gulp.dest(file_paths.folder));
 });
 ```
+
