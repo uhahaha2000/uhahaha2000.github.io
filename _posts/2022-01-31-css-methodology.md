@@ -8,13 +8,14 @@ tags: [css, OOCSS, BEM, SMACSS]
 
 CSS 방법론은 3가지가 있는데 각각 어떤 것에 중점을 두는지 알아보다가 정리해본다.
 
-방법론을 사용하는 이유는 코드의 재사용성, 원활한 유지보수, 코드의 확장성으로 볼 수 있다.  
+- TOC
+{:toc}
 
-
-- OOCSS (Object Oriented CSS)
-- BEM (Block Element Modifier)
-- SMACSS (Scalable and Modular Architecture for CSS)
-
+방법론을 사용하는 이유는   
+- 코드 재사용 할 수 있게
+- 유지보수 쉽게
+- 확장 가능하게
+- class명으로 예측이 가능하게
 
 
 ## OOCSS (Object Oriented CSS)
