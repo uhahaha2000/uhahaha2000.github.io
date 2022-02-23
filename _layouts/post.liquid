@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+<div class="progress-container"><div class="progress-bar"></div></div>
 <article {% if page.feature-img or page.color %}class="feature-image" {% endif %}>
+
   <header id="main" style="">
     <div class="title-padder">
       {% if page.hide_title %}
@@ -70,3 +72,28 @@ layout: default
   header#main { background-image: url('{{ page.feature-img | relative_url }}'); }
   {% endif %}
 </style>
+
+<script>
+
+
+
+  window.addEventListener("load", function(){
+    function scrollProgressBar(){
+      let winTop = window.scrollY || document.documentElement.scrollTop,
+          docHeight = document.querySelector("article").clientHeight,
+          winHeight = window.outerHeight;
+
+      console.log(winTop, docHeight, winHeight);
+      var totalScroll = (winTop / (docHeight - winHeight))*100;
+      console.log("total scroll" + totalScroll);
+      document.querySelector(".progress-bar").style.width = totalScroll+"%";
+    }
+
+    window.addEventListener("scroll", function(){
+      scrollProgressBar();
+    });
+    scrollProgressBar();
+
+  });
+
+</script>
